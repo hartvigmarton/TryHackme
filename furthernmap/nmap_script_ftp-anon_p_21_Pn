@@ -1,0 +1,10 @@
+# Nmap 7.92 scan initiated Thu Mar 10 04:31:44 2022 as: nmap --script=ftp-anon -p 21 -Pn -oN nmap_script_ftp-anon_p_21_Pn 10.10.15.196
+Nmap scan report for 10.10.15.196
+Host is up (0.048s latency).
+
+PORT   STATE SERVICE
+21/tcp open  ftp
+| ftp-anon: Anonymous FTP login allowed (FTP code 230)
+|_Can't get directory listing: TIMEOUT
+
+# Nmap done at Thu Mar 10 04:32:15 2022 -- 1 IP address (1 host up) scanned in 30.63 seconds

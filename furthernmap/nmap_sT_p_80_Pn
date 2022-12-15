@@ -1,0 +1,8 @@
+# Nmap 7.92 scan initiated Thu Mar 10 04:28:36 2022 as: nmap -sT -p 80 -Pn -oN nmap_sT_p_80_Pn 10.10.15.196
+Nmap scan report for 10.10.15.196
+Host is up (0.14s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Thu Mar 10 04:28:36 2022 -- 1 IP address (1 host up) scanned in 0.19 seconds

@@ -1,0 +1,7 @@
+# Nmap 7.92 scan initiated Thu Mar 10 04:07:09 2022 as: nmap -sX -p 1-999 -Pn -o nmap_sX_p_1_999 10.10.15.196
+Nmap scan report for 10.10.15.196
+Host is up.
+All 999 scanned ports on 10.10.15.196 are in ignored states.
+Not shown: 999 open|filtered tcp ports (no-response)
+
+# Nmap done at Thu Mar 10 04:10:31 2022 -- 1 IP address (1 host up) scanned in 201.89 seconds

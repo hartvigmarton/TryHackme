@@ -1,0 +1,6 @@
+/.hta                 (Status: 403) [Size: 278]
+/.htaccess            (Status: 403) [Size: 278]
+/.htpasswd            (Status: 403) [Size: 278]
+/content              (Status: 301) [Size: 316] [--> http://10.10.255.250/content/]
+/index.html           (Status: 200) [Size: 11321]
+/server-status        (Status: 403) [Size: 278]

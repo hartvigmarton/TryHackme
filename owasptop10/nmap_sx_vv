@@ -1,0 +1,11 @@
+# Nmap 7.92 scan initiated Sat Mar 12 06:38:34 2022 as: nmap -sX -Pn -vv -oN nmap_sx_vv 10.10.222.252
+Nmap scan report for 10.10.222.252
+Host is up, received user-set (0.047s latency).
+Scanned at 2022-03-12 06:38:34 EST for 2s
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE         SERVICE REASON
+22/tcp open|filtered ssh     no-response
+80/tcp open|filtered http    no-response
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Mar 12 06:38:36 2022 -- 1 IP address (1 host up) scanned in 1.92 seconds

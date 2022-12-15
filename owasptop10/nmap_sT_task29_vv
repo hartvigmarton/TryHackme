@@ -1,0 +1,9 @@
+# Nmap 7.92 scan initiated Sat Mar 12 22:19:17 2022 as: nmap -sT -Pn -vv -oN nmap_sT_task29_vv 10.10.222.252
+Nmap scan report for 10.10.222.252
+Host is up, received user-set.
+Scanned at 2022-03-12 22:19:17 EST for 202s
+All 1000 scanned ports on 10.10.222.252 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Mar 12 22:22:39 2022 -- 1 IP address (1 host up) scanned in 202.05 seconds

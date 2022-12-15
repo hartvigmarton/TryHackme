@@ -1,0 +1,9 @@
+# Nmap 7.92 scan initiated Wed Mar  9 08:34:53 2022 as: nmap -sS -o nmap_sS 10.10.53.225
+Nmap scan report for 10.10.53.225
+Host is up (0.053s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Wed Mar  9 08:34:56 2022 -- 1 IP address (1 host up) scanned in 2.49 seconds
