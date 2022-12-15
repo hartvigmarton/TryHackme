@@ -1,0 +1,6 @@
+found port 22 and 80 through nmap
+found /panel through gobuster
+file upload possibility
+tried uploading php reverse shell
+listener was opened
+nc -lvnp 4444

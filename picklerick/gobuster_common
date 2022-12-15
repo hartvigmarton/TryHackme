@@ -1,0 +1,7 @@
+/.hta                 (Status: 403) [Size: 304]
+/.htaccess            (Status: 403) [Size: 309]
+/.htpasswd            (Status: 403) [Size: 309]
+/assets               (Status: 301) [Size: 339] [--> http://10-10-19-42.p.thmlabs.com/assets/]
+/index.html           (Status: 200) [Size: 1062]
+/robots.txt           (Status: 200) [Size: 17]
+/server-status        (Status: 403) [Size: 313]
