@@ -1,0 +1,60 @@
+====
++-------------------------+-------+
+|           key           | value |
++-------------------------+-------+
+|    'tiff:XResolution'   | '1/1' |
+|    'tiff:YResolution'   | '1/1' |
+|  'tiff:ResolutionUnit'  |  '1'  |
+| 'tiff:YCbCrPositioning' |  '1'  |
++-------------------------+-------+
+Exif
+====
++---------------------+-----------------------------------------+
+| key                 | value                                   |
++---------------------+-----------------------------------------+
+| SourceFile          | /home/kali/Tryhackme/ccstego/exam1.jpeg |
+| ExifToolVersion     | 12.4                                    |
+| FileName            | exam1.jpeg                              |
+| Directory           | /home/kali/Tryhackme/ccstego            |
+| FileSize            | 8.6 KiB                                 |
+| FileModifyDate      | 2022:03:03 05:50:53-05:00               |
+| FileAccessDate      | 2022:03:03 05:51:15-05:00               |
+| FileInodeChangeDate | 2022:03:03 05:50:53-05:00               |
+| FilePermissions     | -rw-r--r--                              |
+| FileType            | JPEG                                    |
+| FileTypeExtension   | jpg                                     |
+| MIMEType            | image/jpeg                              |
+| JFIFVersion         | 1.01                                    |
+| ExifByteOrder       | Big-endian (Motorola, MM)               |
+| DocumentName        | password=admin                          |
+| XResolution         | 1                                       |
+| YResolution         | 1                                       |
+| ResolutionUnit      | None                                    |
+| YCbCrPositioning    | Centered                                |
+| ImageWidth          | 213                                     |
+| ImageHeight         | 160                                     |
+| EncodingProcess     | Baseline DCT, Huffman coding            |
+| BitsPerSample       | 8                                       |
+| ColorComponents     | 3                                       |
+| YCbCrSubSampling    | YCbCr4:2:0 (2 2)                        |
+| ImageSize           | 213x160                                 |
+| Megapixels          | 0.034                                   |
++---------------------+-----------------------------------------+
+
+password=admin
+
+found directory on webserver with gobuster. command:
+gobuster dir --url http://10.10.164.124/ -w /home/kali/SecLists-master/Discovery/Web-Content/common.txt --wildcard -o gobuster_common
+
+key 3:
+killshot
+qrcode transformed and then scanned
+
+key 2:
+fatality:
+downloaded wav
+added spectogram in sonic visualizer
+led to an url with an image
+downloaded image
+submitted image to aperi'solve
+found key

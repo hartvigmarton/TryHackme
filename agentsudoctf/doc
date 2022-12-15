@@ -1,0 +1,17 @@
+codename: Agent R
+username> chris
+weak password
+agent j
+
+Attention chris,
+
+Do you still remember our deal? Please tell agent J about the stuff ASAP. Also, change your god damn password, is weak!
+
+From,
+Agent R
+ftp:
+user chris
+password: crystal
+
+hydra -l chris -P /usr/share/wordlists/rockyou.txt 10.10.80.245 ftp
+

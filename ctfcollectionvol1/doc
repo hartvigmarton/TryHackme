@@ -1,0 +1,24 @@
+task 13:
+
+What is this?
+
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++++++++++++.------------.+++++.>+++++++++++++++++++++++.<<++++++++++++++++++.>>-------------------.---------.++++++++++++++.++++++++++++.<++++++++++++++++++.+++++++++.<+++.+.>----.>++++.
+
+https://www.dcode.fr/brainfuck-language
+THM{0h_my_h34d
+
+task 17:
+scan qr code
+follow link to soundcloud
+listen to sound file
+thm{SOUNDINGQR}
+
+task 20:
+
+Decode the following text.
+
+581695969015253365094191591547859387620042736036246486373595515576333693
+
+transform dec to hex
+transform to ASCII
+THM{17_ju57_4n_0rd1n4ry_b4535}

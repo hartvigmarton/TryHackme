@@ -1,0 +1,10 @@
+# Nmap 7.92 scan initiated Wed May  4 02:44:45 2022 as: nmap -sS -p1-65535 -oN nmap_sS_p1-65535 10.10.1.241
+Nmap scan report for 10.10.1.241
+Host is up (0.041s latency).
+Not shown: 65532 closed tcp ports (reset)
+PORT      STATE SERVICE
+80/tcp    open  http
+6498/tcp  open  unknown
+65524/tcp open  unknown
+
+# Nmap done at Wed May  4 02:45:22 2022 -- 1 IP address (1 host up) scanned in 37.27 seconds

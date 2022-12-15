@@ -1,0 +1,8 @@
+# Nmap 7.92 scan initiated Sat Mar 26 06:56:58 2022 as: nmap -sS -p 3000 -oN nmap_sS_p3000 10.10.123.152
+Nmap scan report for 10.10.123.152
+Host is up (0.18s latency).
+
+PORT     STATE  SERVICE
+3000/tcp closed ppp
+
+# Nmap done at Sat Mar 26 06:56:58 2022 -- 1 IP address (1 host up) scanned in 0.80 seconds

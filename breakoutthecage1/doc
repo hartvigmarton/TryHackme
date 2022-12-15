@@ -1,0 +1,95 @@
+ftp server login:
+user: anonymous
+password: anonymous
+
+data on ftp:
+
+UWFwdyBFZWtjbCAtIFB2ciBSTUtQLi4uWFpXIFZXVVIuLi4gVFRJIFhFRi4uLiBMQUEgWlJHUVJPISEhIQpTZncuIEtham5tYiB4c2kgb3d1b3dnZQpGYXouIFRtbCBma2ZyIHFnc2VpayBhZyBvcWVpYngKRWxqd3guIFhpbCBicWkgYWlrbGJ5d3FlClJzZnYuIFp3ZWwgdnZtIGltZWwgc3VtZWJ0IGxxd2RzZmsKWWVqci4gVHFlbmwgVnN3IHN2bnQgInVycXNqZXRwd2JuIGVpbnlqYW11IiB3Zi4KCkl6IGdsd3cgQSB5a2Z0ZWYuLi4uIFFqaHN2Ym91dW9leGNtdndrd3dhdGZsbHh1Z2hoYmJjbXlkaXp3bGtic2lkaXVzY3ds
+
+base64 to utf-8:
+Qapw Eekcl - Pvr RMKP...XZW VWUR... TTI XEF... LAA ZRGQRO!!!!
+Sfw. Kajnmb xsi owuowge
+Faz. Tml fkfr qgseik ag oqeibx
+Eljwx. Xil bqi aiklbywqe
+Rsfv. Zwel vvm imel sumebt lqwdsfk
+Yejr. Tqenl Vsw svnt "urqsjetpwbn einyjamu" wf.
+
+Iz glww A ykftef.... Qjhsvbouuoexcmvwkwwatfllxughhbbcmydizwlkbsidiuscwl
+
+classical vigenere deciphered at
+www.guballa.de:
+
+Dads Tasks - The RAGE...THE CAGE... THE MAN... THE LEGEND!!!!
+One. Revamp the website
+Two. Put more quotes in script
+Three. Buy bee pesticide
+Four. Help him with acting lessons
+Five. Teach Dad what "information security" is.
+
+In case I forget.... Mydadisghostrideraintthatcoolnocausehesonfirejokes
+username: weston
+
+
+suid files on ssh server:
+/snap/core/8268/bin/mount
+/snap/core/8268/bin/ping
+/snap/core/8268/bin/ping6
+/snap/core/8268/bin/su
+/snap/core/8268/bin/umount
+/snap/core/8268/usr/bin/chfn
+/snap/core/8268/usr/bin/chsh
+/snap/core/8268/usr/bin/gpasswd
+/snap/core/8268/usr/bin/newgrp
+/snap/core/8268/usr/bin/passwd
+/snap/core/8268/usr/bin/sudo
+/snap/core/8268/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+/snap/core/8268/usr/lib/openssh/ssh-keysign
+/snap/core/8268/usr/lib/snapd/snap-confine
+/snap/core/8268/usr/sbin/pppd
+/snap/core/9066/bin/mount
+/snap/core/9066/bin/ping
+/snap/core/9066/bin/ping6
+/snap/core/9066/bin/su
+/snap/core/9066/bin/umount
+/snap/core/9066/usr/bin/chfn
+/snap/core/9066/usr/bin/chsh
+/snap/core/9066/usr/bin/gpasswd
+/snap/core/9066/usr/bin/newgrp
+/snap/core/9066/usr/bin/passwd
+/snap/core/9066/usr/bin/sudo
+/snap/core/9066/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+/snap/core/9066/usr/lib/openssh/ssh-keysign
+/snap/core/9066/usr/lib/snapd/snap-confine
+/snap/core/9066/usr/sbin/pppd
+/bin/ping
+/bin/umount
+/bin/su
+/bin/fusermount
+/bin/mount
+/usr/lib/snapd/snap-confine
+/usr/lib/openssh/ssh-keysign
+/usr/lib/x86_64-linux-gnu/lxc/lxc-user-nic
+/usr/lib/eject/dmcrypt-get-device
+/usr/lib/policykit-1/polkit-agent-helper-1
+/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+/usr/bin/chsh
+/usr/bin/passwd
+/usr/bin/newgidmap
+/usr/bin/newgrp
+/usr/bin/at
+/usr/bin/sudo
+/usr/bin/chfn
+/usr/bin/gpasswd
+/usr/bin/newuidmap
+/usr/bin/traceroute6.iputils
+/usr/bin/pkexec
+
+sudo -l:
+/usr/bin/bees
+
+bees:
+#!/bin/bash
+
+wall "AHHHHHHH THEEEEE BEEEEESSSS!!!!!!!!"
+
+ 

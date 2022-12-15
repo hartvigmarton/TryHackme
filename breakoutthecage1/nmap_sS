@@ -1,0 +1,7 @@
+# Nmap 7.92 scan initiated Thu Mar 17 11:23:05 2022 as: nmap -sS -oN nmap_sS 10.10.23.5
+Nmap scan report for 10.10.23.5
+Host is up (0.14s latency).
+All 1000 scanned ports on 10.10.23.5 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Thu Mar 17 11:23:09 2022 -- 1 IP address (1 host up) scanned in 3.67 seconds
